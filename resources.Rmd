@@ -1,0 +1,6 @@
+---
+title: "Resources"
+pagetitle: "Resources"
+---
+
+## Some subtitle here

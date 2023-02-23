@@ -1,0 +1,18 @@
+---
+Title: "Workshop Title"
+pagetitle: "Workshop Title"
+---
+```{r echo=FALSE}
+knitr::read_chunk("./scripts/workshop_files.R")
+```
+## Workshop Title
+
+### Description
+
+### Outcomes
+
+### Schedule
+
+### Files
+```{r loadfiles, results='asis', echo=FALSE}
+```

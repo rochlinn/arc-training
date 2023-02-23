@@ -1,0 +1,16 @@
+output_dir: "docs"
+navbar:
+  title: "YOUR TITLE HERE"
+  left:
+    - text: "Resources"
+      href: resources.html
+
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    include:
+      in_header: header.html
+      after_body: footer.html
+    css: styles.css
+exclude: ["*.ini", "*.txt", "*.html"]
